@@ -1,0 +1,24 @@
+
+This package includes support for X11 graphics. Default configuration
+uses text interface. To enable X11 interface, replace slashem.cnf with
+slashem.rc or set environment variable SLASHEMOPTIONS. For example:
+
+set SLASHEMOPTIONS=/games/slashem-x11/slashem.rc
+
+To enable graphical tiles, uncomment line beginning with OPTIONS=tiles
+in your slashem.rc.
+
+This version requires EMX runtime and X11 graphics requires XFree/2.
+If you want to play with text interface and don't want to use EMX runtime,
+download slam773o.zip.
+
+*** Currently I don't have a working XFree/2 environment, so this
+*** version is completely untested! If you have a problem running this
+*** version, send me an email and I'll try to find some compatible
+*** hardware for testing.
+*** This version has been compiled with XFree86/OS2 v4.5.0
+
+If you have Slash'EM OS/2 specific questions or feedback, send email to:
+
+prousu at users.sourceforge.net
+

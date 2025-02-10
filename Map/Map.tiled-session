@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "NewMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Grass.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1.5
+        },
+        "MainBuilding.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1.5
+        },
+        "NewMap.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 188,
+                "y": 60
+            }
+        },
+        "NewTileset.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1.5
+        },
+        "Water.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "decorative.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.exportedFilePath": "C:/Downloads/Code/Game/Map",
+    "last.imagePath": "D:/TiledMaps/Tileset/32x32_orthogonal_transparent_bg/32x32 orthogonal",
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "NewMap.tmx",
+        "decorative.tsx",
+        "MainBuilding.tsx",
+        "NewTileset.tsx",
+        "Grass.tsx",
+        "Water.tsx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "Water.tsx",
+        "Grass.tsx",
+        "NewTileset.tsx",
+        "MainBuilding.tsx",
+        "decorative.tsx",
+        "NewMap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
