@@ -16,7 +16,7 @@ class Combat:
         self.save = load_save()
         self.menu = Menu("Combat")
 
-        self.wawe = wawe
+        self.wawe = wawe + 10
         self.endWawe = wawe + 10
         self.counter = 0
 

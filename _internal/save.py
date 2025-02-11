@@ -66,7 +66,7 @@ def create_save():
             "Wizard" : {"ATK" : {"Val" : 10, "Price" : 20, "CE" : 10}, "HP" : {"Val" : 100, "Price" : 20}, "CE" : {"Val" : 100, "Price" : 20}, "ceRegen" : {"Val" : 1, "Price" : 20} , "Obtained" : {"Val" : False, "Price" : 1000}, "Level" : 10},
             "LiuKang" : {"ATK" : {"Val" : 10, "Price" : 20, "CE" : 10}, "HP" : {"Val" : 100, "Price" : 20}, "CE" : {"Val" : 100, "Price" : 20}, "ceRegen" : {"Val" : 1, "Price" : 20} , "Obtained" : {"Val" : True, "Price" : 0}, "Level" : 10}
             },  
-        "Wawe" : 10
+        "Wawe" : 0
         },
     }
 
